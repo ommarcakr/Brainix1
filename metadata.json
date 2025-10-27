@@ -1,0 +1,5 @@
+{
+  "name": "Brainix",
+  "description": "An integrated AI application that allows users to chat and ask questions in any field, generate images from text, and write and professionally correct code. It supports Arabic and English, features a modern design, fast response times, and an easy-to-use interface that can be connected to the Google API for powerful and accurate real-time performance.",
+  "requestFramePermissions": []
+}
